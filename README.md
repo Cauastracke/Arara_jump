@@ -65,5 +65,5 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 ![GameMaker Logo](https://raw.githubusercontent.com/github/explore/main/topics/gamemaker/gamemaker.png)
 
 ## 📜 Licença
-Este projeto é de uso acadêmico.
+Este projeto é de uso acadêmico e usa MIT liscense.
 
