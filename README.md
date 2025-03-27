@@ -51,9 +51,10 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 ![Diagrama de Caso de Uso](https://i.imgur.com/RGWMaRi.png)
 
 -Diagrama de Sequência
-![Diagrama de Componentes](https://i.imgur.com/Cxnn3we.png)
+![Diagrama de Sequência](https://i.imgur.com/Cxnn3we.png)
 
 -Diagrama de Componentes
+![Diagrama de Componentes](https://i.imgur.com/Ihb1Dl5.png)
 
 ## 🛠️ Ferramentas Utilizadas
 - 🎮 **Engine:** [GameMaker](https://gamemaker.io/)  
