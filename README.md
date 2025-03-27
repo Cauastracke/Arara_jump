@@ -70,11 +70,7 @@ Este projeto é de uso acadêmico e usa MIT liscense.
 ## Contribuidores:
 
 <a href="https://github.com/IDKUsernameSr/siteabd" title="siteabd">
-  <img src="https://avatars.githubusercontent.com/u/84157266?v=4" width="56;">
   <img src="https://avatars.githubusercontent.com/u/168942498?v=4" width="56;">
   <img src="https://avatars.githubusercontent.com/u/163460764?v=4" width="56;">
-  <img src="https://avatars.githubusercontent.com/u/187803051?v=4" width="56;">
-  <img src="https://avatars.githubusercontent.com/u/174639564?v=4" width="56;">
-  <img src="https://avatars.githubusercontent.com/u/119348678?v=4" width="56;">
 </a>
 
