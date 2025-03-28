@@ -38,7 +38,7 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 ✔️ O jogo deve ter um **desempenho estável** em dispositivos móveis, sem travamentos ou lentidão durante o jogo.  
  
 ## 🚀 Como Jogar
-1. Toque na tela ou pressione uma tecla para a arara pular.
+1. Toque na tela para a arara pular.
 2. Desvie dos obstáculos para marcar pontos.
 3. O jogo termina ao colidir com um obstáculo ou o chão.
 
