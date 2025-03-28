@@ -50,6 +50,13 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 -Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](https://i.imgur.com/RGWMaRi.png)
 
+
+-Iniciar jogo: Quando o jogador iniciar o jogo, ele automaticamente irá para a tela do jogo, onde terá a opçao de começar o jogo.
+Fazer a arara pular: Quando o jogador começar o jogo ele precisará clicar na tela para manter a arara "voando", o objetivo é passar pelos vãos das árvores, sem bater nelas ou sem deixar a ave tocar no chão, quanto mais passar pelos vãos mais pontos irá fazer.
+Consultar pontuação: Você poderá conferir a sua pontuação máxima (aparecerá na tela inicial do jogo)
+Bater metas: Irão haver diversos pássaros para os jogadores baterem metas. Quando o jogadores baterem as metas estabelecidas, eles fazem pontos.
+Reiniciar o jogo: Quando a arara cair no chão ou bater nas árvores, irá aparecer a tela de derrota e os jogadores poderão reiniciar o jogo e tentar novamente. 
+
 -Diagrama de Sequência
 ![Diagrama de Sequência](https://i.imgur.com/Cxnn3we.png)
 
