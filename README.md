@@ -72,7 +72,7 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 -Diagrama de Classes
 
-![Diagrama de Classes](https://i.imgur.com/NI8huJS.png)
+![Diagrama de Classes](https://i.imgur.com/c5brPe4.png)
 
 
 ## 🛠️ Ferramentas Utilizadas
