@@ -78,11 +78,15 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 ![Diagrama de Objetos](https://i.imgur.com/pqtVg9K.png)
 
+-Modelo Entidade-Relacionamento (MER)
+![Diagrama de Objetos](https://i.imgur.com/3Frj8oN.png)
+
 ## 🛠️ Ferramentas Utilizadas
 - 🎮 **Engine:** [GameMaker](https://gamemaker.io/)  
 - 💻 **Linguagem:** GML (GameMaker Language)  
 
 ![GameMaker Logo](https://raw.githubusercontent.com/github/explore/main/topics/gamemaker/gamemaker.png)
+
 
 ## 📜 Licença
 Este projeto é de uso acadêmico e usa MIT liscense.
