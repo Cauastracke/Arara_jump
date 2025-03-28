@@ -51,7 +51,8 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 ![Diagrama de Caso de Uso](https://i.imgur.com/RGWMaRi.png)
 
 -Estudo de caso
--Iniciar jogo: Quando o jogador iniciar o jogo, ele automaticamente irá para a tela do jogo, onde terá a opçao de começar o jogo.
+
+Iniciar jogo: Quando o jogador iniciar o jogo, ele automaticamente irá para a tela do jogo, onde terá a opçao de começar o jogo.
 
 Fazer a arara pular: Quando o jogador começar o jogo ele precisará clicar na tela para manter a arara "voando", o objetivo é passar pelos vãos das árvores, sem bater nelas ou sem deixar a ave tocar no chão, quanto mais passar pelos vãos mais pontos irá fazer.
 
