@@ -46,6 +46,7 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 ![Matriz de Requisitos Gerais](https://i.imgur.com/8b9ccyj.png)
 
+
 ## 📈 Diagramas UML
 -Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](https://i.imgur.com/RGWMaRi.png)
@@ -82,8 +83,38 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 ![Diagrama de Atividade](https://i.imgur.com/9dp4DIu.png)
 
--Modelo Entidade-Relacionamento (MER)
+## Dicionário de Dados
+-Coleção: Pássaro
+Essa coleção armazena os dados do pássaro controlado pelo jogador.
+
+posicao_x: Campo do tipo float. Define a posição horizontal do pássaro na tela.
+
+posicao_y: Campo do tipo float. Define a posição vertical do pássaro na tela.
+
+velocidade: Campo do tipo float. Representa a velocidade vertical do pássaro (queda ou pulo).
+
+pontuação: Campo do tipo int. Indica a pontuação acumulada do jogador.
+
+-Coleção: Cano
+Essa coleção armazena os dados dos obstáculos do jogo.
+
+posicao_x: Campo do tipo float. Define a posição horizontal do cano na tela (movimento da direita para a esquerda).
+
+posicao_y: Campo do tipo float. Define a altura do cano, determinando a abertura para o pássaro passar.
+
+-Coleção: Cenário
+Essa coleção representa o ambiente visual do jogo.
+
+dimensões: Campo do tipo string. Define o tamanho do cenário (exemplo: 800x600 px).
+
+chão: Campo do tipo string. Representa a textura ou imagem do chão.
+
+background: Campo do tipo string. Define a imagem de fundo do jogo.
+
+
+## Modelo Entidade-Relacionamento (MER)
 ![Diagrama de Objetos](https://i.imgur.com/3Frj8oN.png)
+
 
 ## 🛠️ Ferramentas Utilizadas
 - 🎮 **Engine:** [GameMaker](https://gamemaker.io/)  
