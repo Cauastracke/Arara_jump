@@ -160,7 +160,8 @@ Em caso de erro, é possível reverter para commits anteriores no GitHub para re
 ![GameMaker Logo](https://raw.githubusercontent.com/github/explore/main/topics/gamemaker/gamemaker.png)
 
 ##  Referências 
-Site de documentação oficial do gamemaker:
+Site de documentação oficial do Gamemaker:
+https://manual.gamemaker.io/monthly/br/#t=Content.html
 
 ## 📜 Licença
 Este projeto é de uso acadêmico e usa MIT liscense.
