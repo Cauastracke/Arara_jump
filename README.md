@@ -78,6 +78,10 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 ![Diagrama de Objetos](https://i.imgur.com/pqtVg9K.png)
 
+-Diagrama de Atividade
+
+![Diagrama de Atividade](https://i.imgur.com/9dp4DIu.png)
+
 -Modelo Entidade-Relacionamento (MER)
 ![Diagrama de Objetos](https://i.imgur.com/3Frj8oN.png)
 
