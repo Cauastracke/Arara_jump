@@ -84,7 +84,8 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 ![Diagrama de Atividade](https://i.imgur.com/9dp4DIu.png)
 
 ## Dicionário de Dados
--Coleção: Pássaro
+--Coleção: Pássaro
+---------------------------------------------------------------------------------------------------------------------
 Essa coleção armazena os dados do pássaro controlado pelo jogador.
 
 posicao_x: Campo do tipo float. Define a posição horizontal do pássaro na tela.
@@ -95,14 +96,18 @@ velocidade: Campo do tipo float. Representa a velocidade vertical do pássaro (q
 
 pontuação: Campo do tipo int. Indica a pontuação acumulada do jogador.
 
--Coleção: Cano
+
+
+--Coleção: Cano
+---------------------------------------------------------------------------------------------------------------------
 Essa coleção armazena os dados dos obstáculos do jogo.
 
 posicao_x: Campo do tipo float. Define a posição horizontal do cano na tela (movimento da direita para a esquerda).
 
 posicao_y: Campo do tipo float. Define a altura do cano, determinando a abertura para o pássaro passar.
 
--Coleção: Cenário
+--Coleção: Cenário
+---------------------------------------------------------------------------------------------------------------------
 Essa coleção representa o ambiente visual do jogo.
 
 dimensões: Campo do tipo string. Define o tamanho do cenário (exemplo: 800x600 px).
@@ -112,8 +117,29 @@ chão: Campo do tipo string. Representa a textura ou imagem do chão.
 background: Campo do tipo string. Define a imagem de fundo do jogo.
 
 
+
 ## Modelo Entidade-Relacionamento (MER)
 ![Diagrama de Objetos](https://i.imgur.com/3Frj8oN.png)
+
+## ⚙️ Plano de Capacidade
+Plataforma: Android
+
+Requisitos Mínimos:
+
+Dispositivo com Android moderno
+
+Pelo menos 2 GB de RAM
+
+Processador de desempenho médio
+
+Espaço de armazenamento leve (menos de 100 MB)
+
+Suporte para telas HD ou superiores
+
+Otimização de Memória:
+Remoção de objetos fora de cena para liberar memória
+
+Requisitos de Rede: Nenhuma funcionalidade de rede necessária (jogo offline)
 
 
 ## 🛠️ Ferramentas Utilizadas
