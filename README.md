@@ -141,6 +141,17 @@ Remoção de objetos fora de cena para liberar memória
 
 Requisitos de Rede: Nenhuma funcionalidade de rede necessária (jogo offline)
 
+## 💾 Estratégia de Backup e Recuperação
+Backup no GitHub:
+
+O código e os arquivos do jogo serão armazenados no GitHub, realizando commits regulares para manter o histórico do projeto.
+
+Arquivos de configuração (como JSON ou TXT) podem ser salvos no repositório, mas recomenda-se que os dados do jogo (pontuação) sejam armazenados localmente no dispositivo.
+
+Recuperação:
+
+Em caso de erro, é possível reverter para commits anteriores no GitHub para recuperar o código.
+
 
 ## 🛠️ Ferramentas Utilizadas
 - 🎮 **Engine:** [GameMaker](https://gamemaker.io/)  
