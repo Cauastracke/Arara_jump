@@ -58,9 +58,9 @@ O jogo **Arara Jump** é voltado para **jogadores casuais** que procuram uma exp
 
 - Consultar pontuação: Você poderá conferir a sua pontuação máxima (aparecerá na tela inicial do jogo)
 
-- Bater metas: Irão haver diversos pássaros para os jogadores baterem metas. Quando o jogadores baterem as metas estabelecidas, eles fazem pontos.
+- Bater metas: Haverão diversos pássaros para o jogador bater metas. Quando o jogador bater as metas estabelecidas, aparece uma mensagem.
 
-- Reiniciar o jogo: Quando a arara cair no chão ou bater nas árvores, irá aparecer a tela de derrota e os jogadores poderão reiniciar o jogo e tentar novamente. 
+- Reiniciar o jogo: Quando a arara cair no chão ou bater nas árvores, irá aparecer a tela de derrota e o jogador poderá reiniciar o jogo e tentar novamente. 
 
 -Diagrama de Sequência
 ![Diagrama de Sequência](https://i.imgur.com/Cxnn3we.png)
